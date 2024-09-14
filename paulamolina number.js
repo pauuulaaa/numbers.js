@@ -1,5 +1,5 @@
-const firstFavNum = 6;
-const secondFavNum = 9;
+const firstFavNum = 10;
+const secondFavNum = 21;
 //Addition
 const sum = firstFavNum + secondFavNum;
 console.log(sum);
